@@ -4,7 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
-        <Name>UnityExplorer</Name>
+        <Name>sinai-dev-UnityExplorer</Name>
         <DisplayName>Unity Explorer</DisplayName>
         <Description>An in-game UI for exploring, debugging and modifying Unity games.</Description>
         <Version>4.9.0</Version>
