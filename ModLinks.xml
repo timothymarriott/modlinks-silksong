@@ -3,5 +3,19 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
-    
+    <Manifest>
+        <Name>UnityExplorer</Name>
+        <DisplayName>Unity Explorer</DisplayName>
+        <Description>An in-game UI for exploring, debugging and modifying Unity games.</Description>
+        <Version>4.9.0</Version>
+        <Link><![CDATA[https://raw.githubusercontent.com/timothymarriott/modlinks-silksong/refs/heads/main/content/sinai-dev-UnityExplorer.zip]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/sinai-dev/UnityExplorer]]>
+        </Repository>
+        <Authors>
+            <Author>sinai-dev</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
