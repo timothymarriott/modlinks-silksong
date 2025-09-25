@@ -8,13 +8,57 @@
 
         <Links>
             
-            <Mac>
+            <Mac SHA256="892e94d6ae061a73c67c859fc7003be3c98d2b5ced5b2ee911d9c4079d1c882c">
                 <![CDATA[https://raw.githubusercontent.com/timothymarriott/modlinks-silksong/refs/heads/main/content/Api.zip]]>
             </Mac>
         </Links>
 
         <Files>
-            
+
+            <File>0Harmony.dll</File>      
+            <File>BepInEx.Harmony.xml</File>
+            <File>libdoorstop.dylib</File> 
+            <File>Mono.Cecil.Rocks.dll</File>                    
+            <File>run_bepinex.sh</File>
+            <File>0Harmony.xml</File>      
+            <File>BepInEx.Preloader.dll</File>                   
+            <File>MMHOOK_Assembly-CSharp.dll</File>              
+            <File>Mono.Posix.dll</File>    
+            <File>TeamCherry.BuildBot.dll</File>
+            <File>0Harmony20.dll</File>    
+            <File>BepInEx.Preloader.xml</File>                   
+            <File>MMHOOK_Playmaker.dll</File>                    
+            <File>Mono.Security.dll</File> 
+            <File>TeamCherry.Cinematics.dll</File>
+            <File>Accessibility.dll</File> 
+            <File>BepInEx.xml</File>       
+            <File>MMHOOK_TeamCherry.Localization.dll</File>      
+            <File>Mono.WebBrowser.dll</File>
+            <File>TeamCherry.Localization.dll</File>
+            <File>Assembly-CSharp-firstpass.dll</File>           
+            <File>Coffee.SoftMaskForUGUI.dll</File>              
+            <File>MMHOOK_TeamCherry.SharedUtils.dll</File>       
+            <File>MonoMod.RuntimeDetour.dll</File>
+            <File>TeamCherry.NestedFadeGroup.dll</File>
+            <File>Assembly-CSharp.dll</File>
+            <File>com.rlabrecque.steamworks.net.dll</File>
+            <File>MMHOOK_TeamCherry.TK2D.dll</File>            
+            <File>MonoMod.RuntimeDetour.xml</File>               
+            <File>TeamCherry.SharedUtils.dll</File>
+            <File>BepInEx</File>
+            <File>ConditionalExpression.dll</File>   
+            <File>Mono.Cecil.dll</File> 
+            <File>MonoMod.Utils.dll</File>
+            <File>TeamCherry.Splines.dll</File>
+            <File>BepInEx.dll</File>
+            <File>GalaxyCSharp.dll</File>
+            <File>Mono.Cecil.Mdb.dll</File>
+            <File>MonoMod.Utils.xml</File>
+            <File>TeamCherry.TK2D.dll</File>
+            <File>BepInEx.Harmony.dll</File>
+            <File>HarmonyXInterop.dll</File>
+            <File>Mono.Cecil.Pdb.dll</File>
+            <File>PlayMaker.dll</File>
         </Files>
     </Manifest>
 </ApiLinks>
