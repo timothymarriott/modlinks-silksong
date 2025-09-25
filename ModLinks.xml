@@ -8,7 +8,7 @@
         <DisplayName>Unity Explorer</DisplayName>
         <Description>An in-game UI for exploring, debugging and modifying Unity games.</Description>
         <Version>4.9.0</Version>
-        <Link><![CDATA[https://raw.githubusercontent.com/timothymarriott/modlinks-silksong/refs/heads/main/content/sinai-dev-UnityExplorer.zip]]></Link>
+        <Link><![CDATA[https://raw.githubusercontent.com/timothymarriott/modlinks-silksong/refs/heads/main/content/UnityExplorer.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
