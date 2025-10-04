@@ -18,4 +18,16 @@
             <Author>sinai-dev</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>SteamFix</Name>
+        <DisplayName>Steam Fix</DisplayName>
+        <Description>Fixes steam.</Description>
+        <Version>0.1.0</Version>
+        <Link><![CDATA[https://raw.githubusercontent.com/timothymarriott/modlinks-silksong/refs/heads/main/content/SteamFix.zip]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Authors>
+            <Author>Lem00ns</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
