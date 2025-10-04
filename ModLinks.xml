@@ -18,17 +18,4 @@
             <Author>sinai-dev</Author>
         </Authors>
     </Manifest>
-
-    <Manifest>
-        <Name>SSDebug</Name>
-        <DisplayName>Debug Mod</DisplayName>
-        <Description>A Debug mod to help with speedrun practice. Read Me: https://gist.github.com/Kein/79db1504e7e355cbb567e0452d136dff</Description>
-        <Version>0.1.63</Version>
-        <Link><![CDATA[https://raw.githubusercontent.com/timothymarriott/modlinks-silksong/refs/heads/main/content/SSDebug.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
-        <Authors>
-            <Author>Kazekai</Author>
-        </Authors>
-    </Manifest>
 </ModLinks>
