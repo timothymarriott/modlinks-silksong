@@ -43,30 +43,6 @@
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>ModList</Name>
-        <DisplayName>Mod List</DisplayName>
-        <Description>Adds a mod list.</Description>
-        <Version>0.1.0</Version>
-        <Link><![CDATA[https://github.com/silksong-modding/Silksong.ModList/releases/download/v0.1.0/Silksong.Modlist.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
-        <Authors>
-            <Author>ManicJamie</Author>
-        </Authors>
-    </Manifest>
-    <Manifest>
-        <Name>ModList</Name>
-        <DisplayName>Mod List</DisplayName>
-        <Description>Adds a mod list.</Description>
-        <Version>0.1.0</Version>
-        <Link><![CDATA[https://github.com/silksong-modding/Silksong.ModList/releases/download/v0.1.0/Silksong.Modlist.zip]]></Link>
-        <Dependencies>
-        </Dependencies>
-        <Authors>
-            <Author>ManicJamie</Author>
-        </Authors>
-    </Manifest>
-    <Manifest>
         <Name>DebugMod</Name>
         <DisplayName>Debug Mod</DisplayName>
         <Description>The debug mod</Description>
